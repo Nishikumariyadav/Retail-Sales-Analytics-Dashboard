@@ -38,14 +38,14 @@ These files are stored in the **Dataset** folder.
 | Profit Margin | 18.49% |
 ---
 ## Dashboard Features
-✔ Year-wise filtering (2019–2024)
-✔ Customer Segment Filter
-✔ Top 10 Products by Sales
-✔ Sales Distribution by Store Type
-✔ Sales Distribution by Region
-✔ State-wise Sales Map
-✔ Monthly Sales vs Last Year Comparison
-✔ Top 5 Brands Analysis
+- Year-wise filtering (2019–2024)
+- Customer Segment Filter
+- Top 10 Products by Sales
+- Sales Distribution by Store Type
+- Sales Distribution by Region
+- State-wise Sales Map
+- Monthly Sales vs Last Year Comparison
+- Top 5 Brands Analysis
 ---
 ## Key Insights
 - Online stores contribute the highest share of sales.
