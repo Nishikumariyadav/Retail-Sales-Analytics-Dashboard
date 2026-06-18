@@ -4,7 +4,7 @@
 This project is an interactive Power BI dashboard built to analyze retail sales performance from 2019 to 2024. It helps businesses monitor sales trends, profitability, customer segments, and regional performance.
 ---
 ## Dashboard Preview
-![Dashboard Preview](Images/dashboard_preview.png)
+![Dashboard Preview](Images/Dashboard_preview.png.jpg)
 ---
 ## Objectives
 - Analyze overall sales and profit performance
