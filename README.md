@@ -53,25 +53,6 @@ These files are stored in the **Dataset** folder.
 - Some brands produce higher profits despite similar sales volumes.
 - Monthly sales remain stable with noticeable peaks during certain periods.
 ---
-## Repository Structure
-```text
-ny-retail-sales-dashboard/
-│
-├── Dashboard/
-│   └── NY_Retail_Sales_Dashboard.pbix
-│
-├── Dataset/
-│   ├── Store.xlsx
-│   ├── Customers.xlsx
-│   ├── Sales.csv
-│   └── Product.csv
-│
-├── Images/
-│   └── dashboard_preview.png.png
-│
-└── README.md
-```
----
 ## How to Use
 1. Download or clone this repository.
 2. Open `NY_Retail_Sales_Dashboard.pbix` in Power BI Desktop.
